@@ -1,6 +1,6 @@
 # Individual Project
 
-My name is Fatah and this is my project.
+My name is Fatah and this is my project. I am working on fourier transform
 
 I am a PhD candidate at [ATU](https://www.atu.ie).
 
